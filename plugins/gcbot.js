@@ -9,7 +9,7 @@ let fetch = require('node-fetch')
          let _gc2 = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(gc2) 
          let _gc3 = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(gc3) 
          let caption = ` 
- *Join juga group official Cute Bot!* 
+ *Join juga group official MT-MD Bot!* 
  Sekedar meramaikan, atau juga jika ada informasi mengenai bot. 
   
  *Group 1* 
@@ -45,7 +45,7 @@ https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID
         externalAdReply: {
         	sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vh/',
             title: 'Gruop Official',
-            body: '© Cute IQ-MD By Ziv San',
+            body: '© MT-MD By FajarM',
           thumbnail: await (await fetch('https://telegra.ph/file/f05029f17de62fb420459.jpg')).buffer()
         }
      }

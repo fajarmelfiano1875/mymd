@@ -31,17 +31,17 @@ module.exports = {
         global.img = 'https://telegra.ph/file/0c567eac403737766688f.jpg'
         global.fla = pickRandom(global.flaaa)
         global.namabot = conn.user.name
-        global.packname = '© CUTE IQ-MD'
-        global.author = 'Made By Ziv San © 2022'
+        global.packname = '© MT-MD'
+        global.author = 'Made By FajarM © 2022'
         global.packname2 = 'Made With'
-        global.author2 = 'Cute Bot By Ziv San © 2022'
-        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Ziv San˚'
-        global.wm2 = '© CUTE IQ-MD' + ' ' + 'By Ziv San'
-        global.wm = '© CUTE IQ-MD'
+        global.author2 = 'MT-MD By FajarM © 2022'
+        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By FajarM˚'
+        global.wm2 = '© MT-MD' + ' ' + 'By FajarM'
+        global.wm = '© MT-MD'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'By Haori & Ziv San'
+        global.colong2 = 'By MT-MD & FajarM'
         global.kontak2 = [
-        ['16199961931', 'Ziv San', 'Creator Bot', 'Zivsan@support.com', true],
+        ['6285748839210', 'FajarM', 'Creator Bot', 'fajarmelfianoutama@gmail.com', true],
         ['6282179137771', 'CUTE IQ-MD', 'Bot WhatsApp', 'Just Bot', true]
         ]
         global.bg = await (await fetch(img)).buffer()

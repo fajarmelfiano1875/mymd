@@ -9,7 +9,7 @@ let fetch = require("node-fetch")
          externalAdReply: { 
                  sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vh/', 
              title: global.ucapan ,
-             body: '© Cute IQ-MD By Ziv San', 
+             body: '© MT-MD by ', 
            thumbnail: await (await fetch('https://telegra.ph/file/f05029f17de62fb420459.jpg')).buffer() 
          } 
       } 
